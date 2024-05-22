@@ -4,3 +4,4 @@ num2 = 6
 sum = num1 + num2
 print("Sum of 2 numbers is: ", sum)
 #New user 1436
+#completed the code
